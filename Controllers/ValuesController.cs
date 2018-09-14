@@ -13,7 +13,7 @@ namespace Fabrika.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "deger 2 kardesim" };
         }
 
         // GET api/values/5
