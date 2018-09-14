@@ -1,0 +1,11 @@
+D:\nodetest\Fabrika\bin\Debug\netcoreapp2.0\Fabrika.deps.json
+D:\nodetest\Fabrika\bin\Debug\netcoreapp2.0\Fabrika.runtimeconfig.json
+D:\nodetest\Fabrika\bin\Debug\netcoreapp2.0\Fabrika.runtimeconfig.dev.json
+D:\nodetest\Fabrika\bin\Debug\netcoreapp2.0\Fabrika.dll
+D:\nodetest\Fabrika\bin\Debug\netcoreapp2.0\Fabrika.pdb
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.csprojAssemblyReference.cache
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.csproj.CoreCompileInputs.cache
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.AssemblyInfoInputs.cache
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.AssemblyInfo.cs
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.dll
+D:\nodetest\Fabrika\obj\Debug\netcoreapp2.0\Fabrika.pdb
